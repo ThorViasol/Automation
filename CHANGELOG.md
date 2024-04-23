@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ThorViasol/Automation/compare/v1.0.0...v1.1.0) (2024-04-23)
+
+
+### Features
+
+* another one ([afff052](https://github.com/ThorViasol/Automation/commit/afff0526d785724c2db20f5d7976c018c50ed32a))
+
 ## 1.0.0 (2024-04-23)
 
 
