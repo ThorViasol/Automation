@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ThorViasol/Automation/compare/v1.1.0...v1.2.0) (2024-04-23)
+
+
+### Features
+
+* test ([#5](https://github.com/ThorViasol/Automation/issues/5)) ([4e93444](https://github.com/ThorViasol/Automation/commit/4e934445e508580f0f511cd256c639b5bf690f90))
+
 ## [1.1.0](https://github.com/ThorViasol/Automation/compare/v1.0.0...v1.1.0) (2024-04-23)
 
 
